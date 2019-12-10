@@ -7,4 +7,5 @@ It's not easy, I think.
 I may upload more ciphertext so that you can decipher it more easily.
 
 ## History
+* 2019-12-10: Add a hint 1
 * 2019-12-09: Published
