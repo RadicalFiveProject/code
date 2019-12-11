@@ -11,7 +11,11 @@ Of course you can do it by hand, but I think
 you definitely want to use a software or write a program.
 
 I implemented a script in Python that performs the method.
+
 It's in the same directory.
-The file name is `hint.py`
+
+The file name is `hint2.py`
+
 If you don't know what or how to do, you can use it.
+
 Note that Matplotlib is required to run the script.
