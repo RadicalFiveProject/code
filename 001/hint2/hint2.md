@@ -4,7 +4,7 @@ The plaintext is written in English.
 
 ## Vigenère cipher
 This cipher is not a simple substitution cipher,
-but you can use the same method to break it.
+but you can use the same method of deciphering Vigenère ciphers to break it.
 
 ## hint2.py
 Of course you can do it by hand, but I think
@@ -16,6 +16,6 @@ It's in the same directory.
 
 The file name is `hint2.py`
 
-If you don't know what or how to do, you can use it.
+If you don't know what or how to do or just don't want to do it, you can use this script.
 
 Note that Matplotlib is required to run the script.
