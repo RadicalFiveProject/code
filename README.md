@@ -12,7 +12,7 @@ They may change in the future.
 These levels are based on my skills, so some people think an Easy problem very hard,
 and vice versa.
 
-Here are a table that shows difficulty levels of published problems.
+Here is a table that shows difficulty levels of published problems.
 
 | Problem No. | Difficulty |
 |:-----------:|:----------:|
