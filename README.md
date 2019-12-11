@@ -7,12 +7,12 @@ so please don't expect high quality problems!
 ## Difficulty
 There are currently (as of 2019-12-11) three difficulty levels: Easy, Normal, and Hard.
 
-They may change in the future.
+This may change in the future.
 
 These levels are based on my skills, so some people think an Easy problem very hard,
 and vice versa.
 
-Here is a table that shows difficulty levels of published problems.
+Here is a table that shows the levels of published problems.
 
 | Problem No. | Difficulty |
 |:-----------:|:----------:|
