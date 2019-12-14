@@ -79,7 +79,7 @@ class PbmImage(object):
         self.width = None # len(im[0])
         self.height = None # len(im)
 
-# A simple function that read a ASCII PPM image.
+# A simple function that reads a ASCII PPM image.
 # It has no error checks.
 def p3read(filename):
     data = _readfile(filename)
@@ -107,7 +107,7 @@ def p3write(im, filename):
                 f'{im.max_val}\n')
         f.writelines(f'{r} {g} {b}\n' for x in im.pixels for r, g, b in x)
 
-# A simple function that read a ASCII PGM image.
+# A simple function that reads a ASCII PGM image.
 # It has no error checks.
 def p2read(filename):
     data = _readfile(filename)
@@ -131,7 +131,7 @@ def p2write(im, filename):
         f.writelines(''.join(['\n'.join(map(str, x)), '\n'])
                      for x in im.pixels)
 
-# A simple function that read a ASCII PBM image.
+# A simple function that reads a ASCII PBM image.
 # It has no error checks.
 def p1read(filename):
     data = _readfile(filename)
