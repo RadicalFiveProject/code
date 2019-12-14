@@ -1,6 +1,9 @@
 # 002
 The pixels of `x.ppm` is scrambled by a certain algorithm.
 
+## If you think you solved the problem,
+See solved/solved.md
+
 ## Note
 In 002, you have to handle Netpbm formats.
 
