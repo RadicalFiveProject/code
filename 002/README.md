@@ -21,3 +21,4 @@ It looks easy.
 
 ## History
 * 2019-12-14: Published
+* 2019-12-14: Add solved
