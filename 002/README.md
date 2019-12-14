@@ -1,7 +1,7 @@
 # 002
 The pixels of `x.ppm` is scrambled by a certain algorithm.
 
-## If you think you solved the problem,
+## If you think you have solved the problem,
 See solved/solved.md
 
 ## Note
@@ -14,10 +14,10 @@ which can load and save those formats of image files.
 The file name is `pnm.py`.
 
 Of course you can use other languages and libraries,
-and even write a new library from scratch as I did.
+or even write a new library from scratch as I did.
 
 ## Difficulty
-It looks easy.
+It looks easy...
 
 ## History
 * 2019-12-14: Published
