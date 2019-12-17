@@ -54,8 +54,7 @@ Your task is to recover the plaintext Pb of Cb.
 and the two ciphertexts are simply written by `fwrite(text, 1, text_len, fp)`.
 
 ### Note
-You can't recover all content of Pb because the length of Pb is
-longer than that of Pa unless you know the key.
+You can't recover all content of Pb unless you know the key.
 
 But this is an answer to the problem.
 
