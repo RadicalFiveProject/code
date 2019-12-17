@@ -17,28 +17,6 @@ At first I was going to make a more difficult problem, but I realized I didn't
 have the knowledge and skills enough to make one.
 精進します。
 
-## Vernam cipher and RC4
-A Vernam cipher is a stream cipher.
-
-If the cipher uses truly random keystream only once, it is OTP.
-
-In the problem, however, I used RC4, which is a Vernam cipher variant
-that uses a pseudorandom keystream.
-
-Don't ask why.
-
-You can regard RC4 as a Vernam cipher in the problem.
-
-You don't have to think about the details of RC4 such as its
-key-scheduling algorithm and pseudo-random generation algorithm.
-
-### Note
-RC4 is now considered as a unsafe stream cipher because multiple
-vulnerabilities have been discovered in it.
-
-Using RC4 is dangerous in itself (で合ってるよね？),
-so don't use RC4 for security purpose.
-
 ## Problem
 Let's assume that you have a pair of plaintext `known_plain` (Pa) and
 ciphertext `known_cipher` (Ca) encrypted by OTP
@@ -63,6 +41,28 @@ Cryptanalysis of Lorenz cipher is related to this problem
 although the cipher is not OTP.
 
 It's Very Hard (I don't understand it at all).
+
+## Vernam cipher and RC4
+A Vernam cipher is a stream cipher.
+
+If the cipher uses truly random keystream only once, it is OTP.
+
+In the problem, however, I used RC4, which is a Vernam cipher variant
+that uses a pseudorandom keystream.
+
+Don't ask why.
+
+You can regard RC4 as a Vernam cipher in the problem.
+
+You don't have to think about the details of RC4 such as its
+key-scheduling algorithm and pseudo-random generation algorithm.
+
+### Note
+RC4 is now considered as a unsafe stream cipher because multiple
+vulnerabilities have been discovered in it.
+
+Using RC4 is dangerous in itself (で合ってるよね？),
+so don't use RC4 for security purpose.
 
 ## History
 * 2019-12-17: Published
