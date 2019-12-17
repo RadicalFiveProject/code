@@ -50,7 +50,7 @@ If the cipher uses truly random keystream only once, it is OTP.
 In the problem, however, I used RC4, which is a Vernam cipher variant
 that uses a pseudorandom keystream.
 
-Don't ask why.
+Don't ask me why.
 
 You can regard RC4 as a Vernam cipher in the problem.
 
