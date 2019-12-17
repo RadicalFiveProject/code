@@ -18,3 +18,4 @@ Here is a table that shows the levels of published problems.
 |:-----------:|:----------:|
 | 001         | Normal     |
 | 002         | Normal     |
+| 003         | Easy       |
