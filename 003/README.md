@@ -14,7 +14,7 @@ because the key is *reused*.
 If you know why, you can skip this problem.
 
 At first I was going to make a more difficult problem, but I realized I didn't
-have the knowledge enough to make one.
+have the knowledge and skills enough to make one.
 精進します。
 
 ## Vernam cipher and RC4
@@ -58,3 +58,9 @@ You can't recover all content of Pb because the length of Pb is
 longer than that of Pa.
 
 But this is an answer to the problem.
+
+### More difficult problem
+Cryptanalysis of Lorenz cipher is related to this problem
+although the cipher is not OTP.
+
+It's Very Hard (I don't understand it at all).
