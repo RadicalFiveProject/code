@@ -29,7 +29,7 @@ Don't ask why.
 
 You can regard RC4 as a Vernam cipher in the problem.
 
-You don't have to think about RC4's algorithm such as its
+You don't have to think about the details of RC4 such as its
 key-scheduling algorithm and pseudo-random generation algorithm.
 
 ### Note
@@ -63,3 +63,6 @@ Cryptanalysis of Lorenz cipher is related to this problem
 although the cipher is not OTP.
 
 It's Very Hard (I don't understand it at all).
+
+## History
+* 2019-12-17: Published
