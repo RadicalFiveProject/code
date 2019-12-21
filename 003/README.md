@@ -6,10 +6,10 @@ The one-time pad (OTP) is secure *as long as it is correctly used*.
 
 There are many cases where OTP becomes insecure.
 
-I take up one of them in this problem, which is very simplified.
-
 For example, encrypting two messages with the same key breaks its secrecy,
 because the key is *reused*.
+
+I take up this in the problem, but it is very simplified.
 
 If you know why, you can skip this problem.
 
@@ -24,7 +24,7 @@ ciphertext `known_cipher` (Ca) encrypted by OTP
 and have found that another ciphertext `unknown_cipher` (Cb) was also
 encrypted with the same key.
 
-In other words, the cipher is not OTP.
+In other words, the cipher is no longer OTP.
 
 Your task is to recover the plaintext Pb of Cb.
 
