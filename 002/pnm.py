@@ -38,8 +38,8 @@ class PpmImage(object):
         (y, 0)
         """
         self.pixels = None
-        self.width = None # len(im[0])
-        self.height = None # len(im)
+        self.width = None # len(self.pixels[0])
+        self.height = None # len(self.pixels)
         self.max_val = None
 
 class PgmImage(object):
@@ -57,8 +57,8 @@ class PgmImage(object):
         (y, 0)
         """
         self.pixels = None
-        self.width = None # len(im[0])
-        self.height = None # len(im)
+        self.width = None # len(self.pixels[0])
+        self.height = None # len(self.pixels)
         self.max_val = None
 
 class PbmImage(object):
@@ -76,8 +76,8 @@ class PbmImage(object):
         (y, 0)
         """
         self.pixels = None
-        self.width = None # len(im[0])
-        self.height = None # len(im)
+        self.width = None # len(self.pixels[0])
+        self.height = None # len(self.pixels)
 
 # A simple function that reads a ASCII PPM image.
 # It has no error checks.
