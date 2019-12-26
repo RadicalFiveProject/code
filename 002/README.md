@@ -22,3 +22,4 @@ It looks easy...
 ## History
 * 2019-12-14: Published
 * 2019-12-14: Add solved
+* 2019-12-26: Replace sample files with new ones
