@@ -32,7 +32,7 @@ The encryption *c* of plaintext is *a^e* mod *n*.
 Note that when using RSA in practice we must use padding to avoid
 many attacks against plain RSA.
 
-### Unknown part
+### Unknown Part
 The unknown part is the last part of the plaintext.
 An example of this type of plaintext includes the following:
 
@@ -46,7 +46,7 @@ An example of this type of plaintext includes the following:
 3. Known part of plaintext (string)
 4. Known part of plaintext (number)
 5. Ciphertext *c* (number)
-6. Length of the unknown part (string)
+6. Bit-length of the unknown part
 
 The numbers are all decimal numbers.
 
