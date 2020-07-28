@@ -24,6 +24,7 @@ The following table shows the levels of published problems.
 | 002         | Normal     |
 | 003         | Easy       |
 | 004         | -          |
+| 005         | Hard       |
 
 ## Japanese version
 READMEs named `*.ja.md` are written in Japanese.
