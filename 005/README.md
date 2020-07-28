@@ -24,7 +24,7 @@ Thus, if we let *a* be a plaintext and *c* be the encryption of *a*,
 then we have *c* = *a^e* mod *n*.
 
 As a example, let's encrypt a message `Hello`.
-We convert each character in a message to ASCII:
+We convert each character in the message to ASCII:
 0x48, 0x65, 0x6c, 0x6c, 0x6f.
 The plaintext is the concatenated number *a* =  0x48656c6c6f (310939249775 in decimal).
 The encryption *c* of plaintext is *a^e* mod *n*.
