@@ -55,4 +55,4 @@ I don't know if there are any tools that solves this problem.
 I think that if you use one it is not so Hard problem.
 
 ## History
-* 2020-07-28: Publilshed
+* 2020-07-28: Published
