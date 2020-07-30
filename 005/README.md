@@ -44,10 +44,12 @@ An example of this type of plaintext includes the following:
 1. (← line number) Modulus *n*
 2. Public exponent *e*
 3. Known part of plaintext (string)
-4. Known part of plaintext (number)
+4. Known part of plaintext (number) *B*
 5. Ciphertext *c* (number)
 6. Bit-length of the unknown part
 
+Let *x* be the unknown part of the plaintext.
+Then *c* = (*B* + *x*)^*e* mod *n* holds.
 The numbers are all decimal numbers.
 
 ## Difficulty
