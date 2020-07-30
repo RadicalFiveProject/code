@@ -54,7 +54,7 @@ The numbers are all decimal numbers.
 
 ## Difficulty
 I don't know if there are any tools that solves this problem.
-I think that if you use one it is not so Hard problem.
+I think that if you use one it is not so a Hard problem.
 
 ## History
 * 2020-07-28: Published
